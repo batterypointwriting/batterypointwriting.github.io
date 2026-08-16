@@ -1,1 +1,0 @@
-Useful page on making files: https://help.gitkraken.com/gitkraken-desktop/adding-and-removing/
