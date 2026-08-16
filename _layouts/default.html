@@ -1,51 +1,149 @@
-<!doctype html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-{% seo %}
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    {% include head-custom.html %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ site.title }}{% if page.title and page.title != "" %} &mdash; {{ page.title }}{% endif %}</title>
+    {% if site.description %}<meta name="description" content="{{ site.description }}">{% endif %}  
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | absolute_url }}?{{ site.time | date: '%s%N' }}">
+    <link rel="apple-touch-icon" href="{{ site.icon }}">
+    {%- if jekyll.environment == 'production' and site.google_analytics -%}
+      {%- include google-analytics.html -%}
+    {%- endif -%}
+    <meta property="og:title" content="{{ site.title }}">
+    <meta property="og:description" content="{{ site.description }}">
+    <meta property="og:image" content="{{ '/assets/images/preview.png' | absolute_url }}">
+    <meta property="og:url" content="{{ page.url | absolute_url }}">
   </head>
   <body>
-    <div class="wrapper">
-      <header>
-        <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
-        <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
+    {{ content }}
+    {% include menu.html bottom=true %}
+    {% unless site.hide_credits %}
+      <aside class="site-credits">
+        <p>
+          <small>Made for sharing our thoughts.</small>
+        </p>
+      </aside>
+    {% endunless %}
+    <script>
+      var originalTitle = document.title;
+      var messages = [
+        "(ﾐⓛᆽⓛﾐ)",
+        "ǝɹɐɥs oʇ ǝɔɐld ∀",
+        "(◐ω◑ )",
+        "(－_－) zzZ",
+        "(=ↀωↀ=)",
+        "(ﾐዕᆽዕﾐ)",
+      ];
+      var messageIndex = 0;
+      var awayTimer = null;
+      document.addEventListener('visibilitychange', function() {
+        if (document.hidden) {
+          awayTimer = setInterval(function() {
+            document.title = messages[messageIndex % messages.length];
+            messageIndex++;
+          }, 120000);
+        } else {
+          clearInterval(awayTimer);
+          messageIndex = 0;
+          document.title = originalTitle;
+        }
+      });
+    </script>
+    <script>
+  // Achievement definitions
+  var achievements = {
+    reader: {
+      id: 'reader',
+      name: 'What a Nerd!',
+      desc: "You've read 5 posts",
+      icon: '/assets/images/achievement.png'
+    },
+    commenter: {
+      id: 'commenter',
+      name: 'Talkative Guy',
+      desc: 'You left your first comment',
+      icon: '/assets/images/achievement.png'
+    },
+    visitor: {
+      id: 'visitor',
+      name: 'Do you come here often?',
+      desc: "You've visited 10 times",
+      icon: '/assets/images/achievement.png'
+    }
+  };
 
-        <ul>
-          {% if site.show_downloads %}
-            <li class="download"><a class="buttons" href="{{ site.github.zip_url }}">Download ZIP</a></li>
-            <li class="download"><a class="buttons" href="{{ site.github.tar_url }}">Download TAR</a></li>
-          {% endif %}
-          <li><a class="buttons github" href="{{ site.github.repository_url }}">View On GitHub</a></li>
-        </ul>
+  function showAchievement(achievement) {
+    var existing = document.getElementById('achievement-popup');
+    if (existing) existing.remove();
 
-        {% if site.github.is_project_page %}
-          <p class="header">This project is maintained by <a class="header name" href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
+    var popup = document.createElement('div');
+    popup.id = 'achievement-popup';
+    popup.innerHTML = `
+      <img src="${achievement.icon}" alt="achievement icon">
+      <div>
+        <div class="achievement-title">Achievement Unlocked</div>
+        <div class="achievement-name">${achievement.name}</div>
+        <div class="achievement-desc">${achievement.desc}</div>
+      </div>
+    `;
+    document.body.appendChild(popup);
 
-        {% if site.github.is_user_page %}
-          <ul>
-            <li><a class="buttons github" href="{{ site.github.owner_url }}">GitHub Profile</a></li>
-          </ul>
-        {% endif %}
-      </header>
+    setTimeout(function() { popup.classList.add('show'); }, 100);
+    setTimeout(function() {
+      popup.classList.remove('show');
+      setTimeout(function() { popup.remove(); }, 500);
+    }, 4000);
+  }
 
-      <section>
-        {{ content }}
-      </section>
+  function unlockAchievement(id) {
+    var unlocked = JSON.parse(localStorage.getItem('achievements') || '{}');
+    if (unlocked[id]) return;
+    unlocked[id] = true;
+    localStorage.setItem('achievements', JSON.stringify(unlocked));
+    showAchievement(achievements[id]);
+  }
 
-      <footer>
-        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme</small></p>
-      </footer>
-    </div>
-    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+  // Track visits
+  var visits = parseInt(localStorage.getItem('visitCount') || '0') + 1;
+  localStorage.setItem('visitCount', visits);
+  if (visits >= 10) unlockAchievement('visitor');
+
+  // Track post reads
+  if (document.querySelector('.post')) {
+    var reads = parseInt(localStorage.getItem('postReads') || '0') + 1;
+    localStorage.setItem('postReads', reads);
+    if (reads >= 5) unlockAchievement('reader');
+  }
+
+  // Track comment attempts
+  document.addEventListener('click', function(e) {
+    if (e.target.closest('#cusdis_thread')) {
+      unlockAchievement('commenter');
+    }
+  });
+</script>
+    <script type="module">
+import { playhtml } from "https://unpkg.com/playhtml";
+
+await playhtml.init();
+
+const visits = playhtml.createPageData("visit-count", { count: 0 });
+
+visits.setData((draft) => {
+  draft.count += 1;
+});
+
+visits.onUpdate((data) => {
+  document.getElementById("total-count").textContent =
+    data.count.toLocaleString();
+});
+
+playhtml.presence.onPresenceChange("cursor", (presences) => {
+  document.getElementById("online-count").textContent =
+    presences.size;
+});
+</script>
   </body>
 </html>
