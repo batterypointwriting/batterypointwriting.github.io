@@ -342,20 +342,7 @@ a, button, [onclick] {
 p, h1, h2, h3, h4, h5, h6, li, td {
   cursor: url('/assets/images/Text3.png'), text;
 }
-.cusdis-wrap {
-  margin-top: 3em;
-  padding-top: 2em;
-  border-top: 1px solid rgba($muted-text-color, 0.3);
-  max-width: 36rem;
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 1em;
-  padding-right: 1em;
-}
-#cusdis_thread iframe {
-  width: 100%;
-  min-height: 600px;
-}
+
 #achievement-popup {
   height: 75px;  // constrain the height directly
   position: fixed;
