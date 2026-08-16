@@ -17,9 +17,9 @@ title: A place to share stories.
 email: rafworkonly@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://rafworkonly.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://batterypointwriting.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/preview.png
-github_username:  rafworkonly
+github_username: batterypointwriting
 
 # Build settings
 markdown: kramdown
@@ -44,5 +44,5 @@ plugins:
   - jekyll-paginate
   - jekyll-remote-theme
 
-paginate: 100
+paginate: 1000
 paginate_path: "/page/:num/"
