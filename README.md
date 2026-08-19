@@ -1,1 +1,1 @@
-The link to our website is batterypointwriting.github.io!
+Help us fix up the code for our website: **[*batterypointwriting.github.io*](https://batterypointwriting.github.io/)**!
