@@ -1,9 +1,10 @@
 ---
-title: "Try Open Source Software"
 layout: post
 author: "Iggy"
-categories: opinion
+title: Try Open Source Software
+date: 2026-06-18
 ---
+
 Recently, I tried to use the oxford english dictionary website and found that I had to pay a subscription charge to see the meaning and use of a word. 
 
 With open source software, the source code is freely available and licensed in a manner that permits modification. Open source software is often as good or even better than proprietary software (which is privately owned). 
