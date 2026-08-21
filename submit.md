@@ -32,6 +32,6 @@ To supercharge your writing experience you could:
 
 You can:
 - Add photos if you send them via whatsapp (send them HD if possible)
-- Contribute to the project in another way, it's possible to add videos or audio or you could even contribute to improving the site. 
+- Contribute to the project in another way (we need help cleaning up the code)
 
 Enjoy writing!
