@@ -4,7 +4,7 @@ author: "Iggy"
 title: Letter to an Academic Supervisor
 date: 2026-04-27
 ---
-*The image below is a screenshot of a report uploaded by my academic supervisor, to an online university portal. It is followed by a draft I sent to my college tutor detailing my perspective of the term.*
+*The image below is a screenshot of a report uploaded by my academic supervisor, to an online university portal. It is followed by a draft of a short speech I sent to my college tutor detailing my perspective of the term, at her request.*
 
 ![report](/assets/images/image-2.png)
 
