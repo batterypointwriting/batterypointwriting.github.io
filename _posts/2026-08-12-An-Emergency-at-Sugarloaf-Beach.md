@@ -16,7 +16,7 @@ Someone passes my brother and I the defibrillator on the wall of the sailing clu
 
 I kneel beside Debbie and we turn on the defibrillator with a big button in its centre, the device gives instructions in a robotic voice. We have to dry Debbie before applying the pads, so I wipe underneath her breast with a towel, I do this quite thoroughly. Debbie does not look alive, her face is grey, her mouth is wide open, and her eyes are not in the correct place. 
 
-With the full width of my palm I forcefully slap the first pad onto Debbie. The second pad sticks to my fingers, and I ask whether I am sticking it in the right place, I stick the second pad underneath her breast. There are small diagrams on the stickers showing where they should go. 
+With the full width of my palm I forcefully slap the first pad onto Debbie. The second pad sticks to my fingers, and I ask whether I am sticking it in the right place. I stick the second pad onto her and rub it to make sure it is flat on her skin. There were small diagrams on the stickers showing where they should go. 
 
 The device asks us to continue doing chest compressions, between giving the electric shocks. The first electric shock is done by my brother, by clicking a small button on the device. Debbie jolts harshly, and shrieks in agonising pain. My mum, Basia and Janet continue doing the chest compressions. I step in at a certain point believing the compressions are too weak, and push very hard onto Debbie. Debbie's ribs are already broken, I have never felt such an awful sensation. We give three shocks in total, and in each, Debbie turns to her side, as if showing that she wants to be released. 
 
