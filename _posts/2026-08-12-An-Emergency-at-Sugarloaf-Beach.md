@@ -12,7 +12,7 @@ I turn again and see Debbie collapse, with a rag-doll like motion, she doesn't p
 
 My dad runs to Basia, who is swimming. Basia quickly reaches the slipway and joins the group helping Debbie. 
 
-Someone passes my brother and I the defibrillator on the wall of the sailing club. In a hectic sequence of events, we unpack the device, trying to slide off the cover, read the instructions, and untangle the sticky pads inside. My brother opens a green zip-tie which seals a section containing the sticky pads. 
+Someone passes my brother and I the defibrillator on the wall of the sailing club. In a hectic sequence of events, we unpack the device, trying to slide off the cover, read the instructions, and untangle the sticky pads inside. My brother opens a green ziptie which seals a section containing the sticky pads. 
 
 I kneel beside Debbie and we turn on the defibrillator with a big button in its centre, the device gives instructions in a robotic voice. We have to dry Debbie before applying the pads, so I wipe underneath her breast with a towel, I do this quite thoroughly. Debbie does not look alive, her face is grey, her mouth is wide open, and her eyes are not in the correct place. 
 
