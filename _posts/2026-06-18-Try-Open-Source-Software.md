@@ -18,7 +18,6 @@ Computer operating system, <a href="https://www.debian.org/">Debian</a> <br>
 Molecular dynamics, <a href="https://www.gromacs.org/">Gromacs</a> <br>
 Technical or scientific documents, <a href="https://www.texstudio.org/">LaTeX</a> <br>
 Fonts, <a href="https://openfont.org/">OpenFont</a> <br>
-Text editor, <a href="https://notepad-plus-plus.org/">Notepad++</a> <br>
 
 Sophia's and Ivan's suggestions, respectively:
 
