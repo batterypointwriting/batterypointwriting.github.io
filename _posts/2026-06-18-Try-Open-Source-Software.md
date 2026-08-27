@@ -12,13 +12,13 @@ With open source software, the source code is freely available and licensed in a
 Although open source software has a few disadvantages, often an unaesthetic user interface, and one must be selective as to what they use, I encourage you to try a few of the tools I've shared below. In general, you should be careful and check the links are from the official websites. You can check I am using proper links by visiting our Github repository. Open source software can be very safe, and well maintained depending on the project. Below is a list of open source software that I recommend for education, work, or other pursuits. 
 
 Free dictionary, <a href="https://gcide.gnu.org.ua/about">GCIDE</a> <br>
+Online chess, <a href="https://lichess.org/about">Lichess</a> <br>
 Packing and unpacking files, <a href="https://www.7-zip.org/">7-zip</a> <br>
 Sandbox factory game, <a href="https://anuke.itch.io/mindustry">Mindustry</a> <br>
 Computer operating system, <a href="https://www.debian.org/">Debian</a> <br> 
 Molecular dynamics, <a href="https://www.gromacs.org/">Gromacs</a> <br>
 Technical or scientific documents, <a href="https://www.texstudio.org/">LaTeX</a> <br>
 Fonts, <a href="https://openfont.org/">OpenFont</a> <br>
-Online chess, <a href="https://lichess.org/about">Lichess</a> <br>
 
 Sophia's and Ivan's suggestions, respectively:
 
