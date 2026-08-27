@@ -16,8 +16,8 @@ Online chess, <a href="https://lichess.org/about">Lichess</a> <br>
 Packing and unpacking files, <a href="https://www.7-zip.org/">7-zip</a> <br>
 Sandbox factory game, <a href="https://anuke.itch.io/mindustry">Mindustry</a> <br>
 Computer operating system, <a href="https://www.debian.org/">Debian</a> <br> 
-Molecular dynamics, <a href="https://www.gromacs.org/">Gromacs</a> <br>
 Technical or scientific documents, <a href="https://www.texstudio.org/">LaTeX</a> <br>
+Molecular dynamics, <a href="https://www.gromacs.org/">Gromacs</a> <br>
 Fonts, <a href="https://openfont.org/">OpenFont</a> <br>
 
 Sophia's and Ivan's suggestions, respectively:
