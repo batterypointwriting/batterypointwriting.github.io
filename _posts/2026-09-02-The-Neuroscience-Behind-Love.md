@@ -8,7 +8,7 @@ One of my favourite quotes from Helen Fisher, a biological anthropologist who in
 
 “People pine for love, they live for love, they kill for love; and they die for love.”
 
-I think this gives context to how powerful this brain system is . Trying to understand it biologically & philosophically, I think, is a noble pursuit.
+I think this gives context to how powerful this brain system is. Trying to understand it biologically & philosophically, I think, is a noble pursuit.
 
 What actually is different between lust, love, and attachment?
 
