@@ -324,11 +324,9 @@ video {
   vertical-align: top;
 }
 
-@media (min-width: 769px) {
-  html {
-    border: 25px solid #b9c2ac;
-    min-height: 100%;
-  }
+html {
+  border: 25px solid $highlight;
+  min-height: 100%;
 }
 
 body {
