@@ -25,5 +25,5 @@ First I thought it was because I have never been in love. I’m trying to unders
 
 For me, falling in love has always been from sharing my mental landscape with another person, and allowing it to be forever changed and stretched into feeling or knowing something I didn’t even think I was capable of. And realising, we can never always just fit inside each other's head.  As said by Eric Fromm, “I want the loved person to grow and unfold for his own sake, and in his own ways, and not for the purpose of serving me.” Both of you end up evolving into your true selves. Sometimes the growth happens in speeds and directions differently and you shift apart, but the goal is to find your sense of meaning together. It’s not performative, when I reveal something ugly about myself, they don’t turn away. They become more curious, caring, and try to see the world through my eyes. To “skillfully love” as Karlsson puts it. Honestly, this fitting of my interior uniquely and imperfectly with another person’s may just be a bunch of chemicals firing in my body… and purely a survival reaction, but understanding that doesn't really matter.
 
-References
+References <br>
 [1] Defining Brain Systems of Lust, Romantic Attraction, and Attachment. Helen E. Fisher et al. Archives of Sexual Behaviour, Vol 31, No 5, October 2002, pp 413-419
