@@ -1,37 +1,24 @@
 ---
 layout: post
 author: "Annie"
-title: The Neuroscience Behind Love
+title: Reflections on Romantic Love
 date: 2026-09-02
 ---
 One of my favourite quotes from Helen Fisher, a biological anthropologist who inspired this writing:
 
-“People pine for love, they live for love, they kill for love; and they die for love.”
+“People pine for love, they live for love, they kill for love, and they die for love.” <br>
+I think that gives context to how powerful this brain system is. Trying to understand it biologically and philosophically - is a noble pursuit.
 
-I think this gives context to how powerful this brain system is. Trying to understand it biologically & philosophically, I think, is a noble pursuit.
+The difference between lust, romantic love, and attachment.
 
-What actually is different between lust, love, and attachment?
+The most important distinction from Fisher’s studies refers to love as a motivational drive, rather than just an emotion. Like hunger or fear, it is a survival need, and a homeostatic imbalance. She has modelled three different brain systems around it.The first is lust, which functions to ensure you copulate with an available mate. You can feel it for several people at a time. Second is romantic love stemming from attraction, and based on a different brain system, focusing your energy on one partner. It can happen at first sight. Attachment is another, which sustains a strong bond long enough to stay with a partner till your child has grown past infancy. This takes time to form.
 
-The most important distinction from Fisher’s studies refers to love as motivational drive, rather than just an emotion. Like hunger or fear it is needed, and a homeostatic imbalance. She has defined it under three different brain systems. The first is lust, which functions to ensure you copulate with an available mate. You can feel this with several people at a time. Second is romantic love, stemming from attraction, and based on a different brain system to focus your energy on one partner at a time. It can happen at first sight. Attachment is another, which sustains a strong bond long enough to stay with a partner till your child has grown past infancy, this takes time to form.
+These brain systems are wired with different neurochemicals and can operate together or separately. For example, early love releases a lot of dopamine (makes that person feel addictive) and uses norepinephrine (fight-or-flight neurotransmitter which ensures you remember details about your interactions). Whereas attachment is enabled by oxytocin and vasopressin. The result is, you can be attached to one person, but fall for another, or despite having a person you are deeply devoted to, don't need to sleep with them to remain bonded. I theorize that many people experience these three different brain systems at different times for the same person too - making them feel confused if they are in love or not. <br>
+Can love be classified as an addiction? <br>
+Romantic love certainly has the main signs of addiction. You gain tolerance (need to see your significant other more and can obsess), withdrawals (physical and emotional discomfort in their prolonged absence), relapse (tendency to go back to them after separation, which can be triggered randomly). The involvement of the VTA brain region and nucleus accumbens is another indication. It is the reward system for craving and can become more active when you can’t get what you want. The same areas light up for chocolate, gambling and cocaine. You can lose your sense of self, and the brain circuitry required for cognitive functioning/ rational thinking aren’t really involved. 
+Why does it matter? <br>
+For a while now I have been trying to understand why I am writing this. <br>
 
-These brain systems are wired with different neurochemicals and can operate together or separately, for example, early love releases a lot of dopamine (makes the loved one feel addictive) and uses norepinephrine (fight-or-flight neurotrasmitter which ensures you remember details about your interactions). Whereas attachment is enabled by oxytocin & vasopressin. The result is, you can be attached to one person, and attracted to another. Or despite having a person you’re deeply devoted to, don’t need sex to remain feeling bonded. I theorise many people experience these brain systems at different times for the same person too - making them confused if they are in love or not.
+First I thought it was because I have never been in love. I’m trying to understand what seems to be natural for so many and yet, impossible for me. Maybe my brain is like:  if I understand the science or theory behind it, then I can execute it in real life practically. But then I realized it is because I do know love. I have felt the extent of both its pleasure and torment, which is why I want to understand biologically what triggers it. A petty attempt to normalise the surge of emotions it has evoked in me. Now, I have learnt something more profound. And it is not from an essay or book but from a blog: Looking for Alice by Henrik Karlsson. He has worded something orbiting in my mind for so long, and is more spiritual.
 
-The evolutionary context behind love.
-
-So why did we end up being a species that forms pair bonds? 97% of mammals don’t. I cannot say this applies for romance now, which spans among different ages and sexualities, but there is a theory for its origins. Fisher suggests before we were homo-sapiens, as homo-erectus, we began standing up as groups to survive; for a female this meant carrying an infant and food. It made it impossible to also defend herself. She relied on a male mate for protection. A male could not defend a whole hoard of females, but could safely protect one. This mutual need and focusing on one partner ensured the survival of the infant, and over generations, the species. For partnerships that didn’t form strong attachments, the infants did not survive and so that character trait was not selected / passed down.
-
-There is more to the origins than this, for example: the helplessness of human babies required shared care-giving, fertile partners were rarer in prehistoric times, so staying together was beneficial etc. Result is millions of years later, humans feel a need for mutual wanting and attachment, as that brain system ensured survival long ago.
-
-Can love be classified as an addiction?
-
-Romantic love has the main signs of addiction. You gain tolerance (need to see partner more and more and can be obsessed), withdrawals (physical & emotional discomfort in their prolonged absence), relapse (tendency to go back to them after separation, which can be spontaneous). The involvement of the VTA brain region & the nucleus accumbens is another indication. It is a reward system for craving & can be activated when you can’t get what you want. The same areas light up for chocolate & cocaine & gambling. You can lose sense of self & brain circuity for cognitive thinking isn’t really involved.
-
-Why does it matter?
-
-For a while now I have been trying to understand why I am writing this.
-
-First, I thought it was because I have never been in love. I’m trying to understand what seems to be natural for so many and yet, impossible for me. Maybe my brain is like “if I understand the science or theory behind it, I can execute it practically.” But then I realised, it is because I do know love. I have felt both its pleasure & torment, which is why I want to understand it. A petty attempt to normalise the surge of emotions it has evoked in me. But now, I have learnt something more profound. It is not from research, or a book, but actually a blog: Looking for Alice by Henrik Karlsson. He has worded something floating around in my head for so long.
-
-For me, falling in love has always been from sharing my mental landscape with another, and allowing it to be changed & stretched into feeling or knowing something I didn’t even think I was capable of. And acknowledging we can never just fit inside each other’s head. As said by Eric Fromm, “I want the loved person to grow & unfold for his own sake, and in his own ways, and not for the purpose of serving me.” Both of you end up evolving into your true selves. Sometimes the growth happens in different directions & speeds and you drift apart. But hopefully, it reveals some of your life’s meaning.
-
-It’s not performative when I reveal something ugly about myself, they don’t turn away. They become more curious, caring, and try to see the world through my eyes. To “skillfully love” as Karlsson puts it. Honestly, this fitting of my interior uniquely & imperfectly with another person’s may be just a bunch of chemicals firing in my body… but understanding that doesn’t really matter anymore.
+For me, falling in love has always been from sharing my mental landscape with another person, and allowing it to be forever changed and stretched into feeling or knowing something I didn’t even think I was capable of. And realising, we can never always just fit inside each other's head.  As said by Eric Fromm, “I want the loved person to grow and unfold for his own sake, and in his own ways, and not for the purpose of serving me.” Both of you end up evolving into your true selves. Sometimes the growth happens in speeds and directions differently and you shift apart, but the goal is to find your sense of meaning together. It’s not performative, when I reveal something ugly about myself, they don’t turn away. They become more curious, caring, and try to see the world through my eyes. To “skillfully love” as Karlsson puts it. Honestly, this fitting of my interior uniquely and imperfectly with another person’s may just be a bunch of chemicals firing in my body… and purely a survival reaction, but understanding that doesn't really matter.
