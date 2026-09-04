@@ -8,7 +8,9 @@ One of my favourite quotes from Helen Fisher, a biological anthropologist who in
 
 “People pine for love, they live for love, they kill for love, and they die for love.” 
 
-I think that gives context to how powerful this brain system is. Trying to understand it biologically and philosophically - is a noble pursuit. The difference between lust, romantic love, and attachment.
+I think that gives context to how powerful this brain system is. Trying to understand it biologically and philosophically - is a noble pursuit. 
+
+**The difference between lust, romantic love, and attachment.**
 
 The most important distinction from Fisher’s studies refers to love as a motivational drive, rather than just an emotion. Like hunger or fear, it is a survival need, and a homeostatic imbalance [1]. She has modelled three different brain systems around it. The first is lust, which functions to ensure you copulate with an available mate. You can feel it for several people at a time. Second is romantic love stemming from attraction, and based on a different brain system, focusing your energy on one partner. It can happen at first sight. Attachment is another, which sustains a strong bond long enough to stay with a partner till your child has grown past infancy. This takes time to form.
 
