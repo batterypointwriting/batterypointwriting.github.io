@@ -2,7 +2,7 @@
 layout: post
 author: "Annie"
 title: Reflections on Romantic Love
-date: 2026-09-03
+date: 2026-09-04
 ---
 One of my favourite quotes from Helen Fisher, a biological anthropologist who inspired this writing:
 
