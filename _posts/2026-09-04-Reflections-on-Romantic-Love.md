@@ -31,3 +31,4 @@ For me, falling in love has always been from sharing my mental landscape with an
 [1] Fisher, H, (2002) Defining the Brain Systems of Lust, Romantic Attraction and Attachment. Archives of Sexual Behaviour, Vol. 31, No5 and Attachment, Plenum Publishing Corporation
 
 [2] Karlsson, H, (2023) Looking for Alice, Escaping Flatland
+
