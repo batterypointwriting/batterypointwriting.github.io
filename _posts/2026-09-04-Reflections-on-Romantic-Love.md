@@ -32,4 +32,4 @@ For me, falling in love has always been from sharing my mental landscape with an
 
 [2] Karlsson, H, (2023) Looking for Alice, Escaping Flatland
 
-![sky](/assets/images/sky.jpeg)
+![sky](/assets/images/Sky.jpeg)
