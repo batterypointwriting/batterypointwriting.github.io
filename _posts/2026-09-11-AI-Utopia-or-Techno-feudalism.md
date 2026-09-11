@@ -1,7 +1,7 @@
 ---
 layout: post
 author: "Jake"
-title: AI: Utopia or Techno-feudalism
+title: "AI: Utopia or Techno-feudalism"
 date: 2026-09-11
 ---
 
