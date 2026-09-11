@@ -51,7 +51,7 @@ costs around $2-$6 to make yet it retails for around $250 in the US for example.
 So Utopia or Techno-feudalism? Depends on whether humanity can establish governments that serve 
 the people.
 
-*References* <br>
+**References** <br>
 [1] Keynes, J.M., 1930. Economic possibilities for our grandchildren. In Essays in persuasion
 (pp. 321-332). London: Palgrave Macmillan UK.
 
