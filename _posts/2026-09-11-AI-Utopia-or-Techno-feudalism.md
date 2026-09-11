@@ -40,8 +40,7 @@ society.
 Interestingly, similar predictions have been made in history. John Keynes, who is one of the most 
 influential economists of the 20th century, wrote an essay in 1930 arguing that by 2030 the 
 cumulative economic and technological growth will increase productivity so much that living 
-standards increase and people won't have to work as much (he predicted 3 days a week being 
-considered full time) [1]. In the present we can clearly see that wasn't the case, we have much more 
+standards increase and people won't have to work as much (Three-hour shifts or a fifteen-hour week) [1]. In the present we can clearly see that wasn't the case, we have much more 
 productivity than his day yet people will work and work and yet struggle with the cost living. 
 Clearly all the benefits are funnelled at the top while the majority struggle and dream of home 
 ownership in developed nations; not to mention the people being targeted by AI systems in other 
