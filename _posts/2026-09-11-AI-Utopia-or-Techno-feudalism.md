@@ -41,7 +41,7 @@ Interestingly, similar predictions have been made in history. John Keynes, who i
 influential economists of the 20th century, wrote an essay in 1930 arguing that by 2030 the 
 cumulative economic and technological growth will increase productivity so much that living 
 standards increase and people won't have to work as much (he predicted 3 days a week being 
-considered full time). In the present we can clearly see that wasn't the case, we have much more 
+considered full time) [1]. In the present we can clearly see that wasn't the case, we have much more 
 productivity than his day yet people will work and work and yet struggle with the cost living. 
 Clearly all the benefits are funnelled at the top while the majority struggle and dream of home 
 ownership in developed nations; not to mention the people being targeted by AI systems in other 
@@ -50,6 +50,10 @@ costs around $2-$6 to make yet it retails for around $250 in the US for example.
 
 So Utopia or Techno-feudalism? Depends on whether humanity can establish governments that serve 
 the people.
+
+*References*
+[1] Keynes, J.M., 1930. Economic possibilities for our grandchildren. In Essays in persuasion
+(pp. 321-332). London: Palgrave Macmillan UK.
 
 ![ruins](/assets/images/ruins.jpeg)
 ![modern-city](/assets/images/modern-city.jpeg)
