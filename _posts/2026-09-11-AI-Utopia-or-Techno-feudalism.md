@@ -15,7 +15,7 @@ Within the past few months, I've come across clips of Elon Musk and Jeff Bezos (
 talking optimistically about how AI will increase productivity so much that we will have deflation,
 where things become cheap and abundant, even to the extent that money won't have value (according to
 Mr Musk), instead energy will be the currency of the future. They claim AI will solve humanities
-problem, that is their justification for throwing all their resources to data centres,
+problems, that is their justification for throwing all their resources to data centres,
 while completely ignoring problems like climate change, social inequality and wars/corruption. Do
 they really believe that AI will help humanity? Or are they just marketing it?
 
@@ -42,7 +42,7 @@ influential economists of the 20th century, wrote an essay in 1930 arguing that 
 cumulative economic and technological growth will increase productivity so much that living 
 standards increase and people won't have to work as much (three-hour shifts or a fifteen-hour week) [1]. 
 In the present we can clearly see that wasn't the case, we have much more productivity than his day 
-yet people will work and work and yet struggle with the cost living. Clearly all the benefits are 
+yet people will work and work and yet struggle with the cost of living. Clearly all the benefits are 
 funnelled at the top while the majority struggle and dream of home ownership in developed nations;
 not to mention the people being targeted by AI systems in other countries... this is Capitalism. 
 We know that corporations are greedy --- a vial of life saving insulin costs around $2-$6 to make yet 
