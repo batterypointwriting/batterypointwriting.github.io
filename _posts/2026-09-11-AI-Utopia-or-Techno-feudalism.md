@@ -40,14 +40,15 @@ society.
 Interestingly, similar predictions have been made in history. John Keynes, who is one of the most 
 influential economists of the 20th century, wrote an essay in 1930 arguing that by 2030 the 
 cumulative economic and technological growth will increase productivity so much that living 
-standards increase and people won't have to work as much (Three-hour shifts or a fifteen-hour week) [1]. In the present we can clearly see that wasn't the case, we have much more 
-productivity than his day yet people will work and work and yet struggle with the cost living. 
-Clearly all the benefits are funnelled at the top while the majority struggle and dream of home 
-ownership in developed nations; not to mention the people being targeted by AI systems in other 
-countries... This is Capitalism. We know that corporations are greedy---a vial of life saving insulin 
-costs around $2-$6 to make yet it retails for around $250 in the US for example.
+standards increase and people won't have to work as much (three-hour shifts or a fifteen-hour week) [1]. 
+In the present we can clearly see that wasn't the case, we have much more productivity than his day 
+yet people will work and work and yet struggle with the cost living. Clearly all the benefits are 
+funnelled at the top while the majority struggle and dream of home ownership in developed nations;
+not to mention the people being targeted by AI systems in other countries... this is Capitalism. 
+We know that corporations are greedy --- a vial of life saving insulin costs around $2-$6 to make yet 
+it retails for around $250 in the US.
 
-So Utopia or Techno-feudalism? Depends on whether humanity can establish governments that serve 
+So Utopia or Techno-feudalism? It depends on whether humanity can establish governments that serve 
 the people.
 
 **References** <br>
