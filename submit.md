@@ -8,7 +8,7 @@ This site is a place to engage with your local community. It's free, open-source
 
 To make a submission: 
 
-Sit down with a piece of paper and a pen and handwrite your message. Send a photo or scan of the handwritten message to batterypointwriting@proton.me. There's no length too long or too short, submit a one sentence poem if you like.
+Sit down with a piece of paper and a pen and handwrite your message. Send us a photo or scan of the handwritten message. There's no length too long or too short, submit a one sentence poem if you like.
 
 You should:
 - Say what you wanna say (any topic)
@@ -33,5 +33,7 @@ To supercharge your writing experience you could:
 You can:
 - Add photos if you send them via whatsapp (send them HD if possible)
 - Contribute to the project in another way (we need help cleaning up the code)
+
+Contact us via batterypointwriting@proton.me.
 
 Enjoy writing!
