@@ -43,3 +43,51 @@
   font-display: swap;
   src: url('#{$asset_url}/fonts/Blizka-BoldItalic.otf') format('opentype');
 }
+
+@font-face {
+  font-family: "Crimson";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('#{$asset_url}/fonts/Crimson-Roman.otf') format('opentype');
+}
+
+@font-face {
+  font-family: "Crimson";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('#{$asset_url}/fonts/Crimson-Semibold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: "Crimson";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('#{$asset_url}/fonts/Crimson-Bold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: "Crimson";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('#{$asset_url}/fonts/Crimson-Italic.otf') format('opentype');
+}
+
+@font-face {
+  font-family: "Crimson";
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url('#{$asset_url}/fonts/Crimson-SemiboldItalic.otf') format('opentype');
+}
+
+@font-face {
+  font-family: "Crimson";
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url('#{$asset_url}/fonts/Crimson-BoldItalic.otf') format('opentype');
+}
