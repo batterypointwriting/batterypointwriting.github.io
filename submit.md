@@ -33,7 +33,6 @@ To supercharge your writing experience you could:
 You can:
 - Add photos if you send them via whatsapp (send them HD if possible)
 - Contribute to the project in another way (we need help cleaning up the code)
-
-Contact us via batterypointwriting@proton.me or by post. 
+- Email batterypointwriting@proton.me
 
 Enjoy writing!
