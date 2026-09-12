@@ -58,4 +58,4 @@ You could still try to learn a few of them, though. Who knows? Maybe one day the
 **Glossary** <br>
 *Presentism*: an attitude to scrutinise and judge the past according to modern values and ideas.
 
-![Ruins](/assets/images/ruins.jpeg)
+![Ruins](/assets/images/ancient-ruins.jpeg)
