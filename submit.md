@@ -31,7 +31,7 @@ To supercharge your writing experience you could:
 - Hand draw something to go along with your message
 
 You can:
-- Share something personal
+- Share a personal story
 - Add photos if you send them via whatsapp (send them HD if possible)
 - Contribute to the project in another way (we need help cleaning up the code)
 - Email batterypointwriting@proton.me
