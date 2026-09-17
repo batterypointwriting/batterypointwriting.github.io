@@ -29,7 +29,7 @@ I want and need a break, to turn off the cranium, shut off this thing for long e
 feels rested. Maybe I'm complaining when I shouldn't, I've got everything others dream of and more,
 yet heavy is my head. How I long to breathe crisp autumn air, to walk under the blanket of an October
 breeze. To feel nothing but the mild English sun on my face. To end the days sat near a fire, stiff
-whisky in one hand, and a cigar in the other. Even as a describe such a day, sat under LED and blasted
+whisky in one hand, and a cigar in the other. Even as I describe such a day, sat under LED and blasted
 with blue light, the mind relaxes. 
 
 This is year one of forty more, and already it seems too much. I wonder what lies ahead. Much less of
