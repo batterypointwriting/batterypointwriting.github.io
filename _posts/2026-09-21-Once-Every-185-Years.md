@@ -4,8 +4,6 @@ author: "Jonathan"
 title: Once Every 185 Years
 date: 2026-09-21
 ---
-Once every 185 years
-
 I was told an interesting fact recently by a flying instructor; that the engines used on airliners are so reliable now, that an airline pilot will likely encounter an engine failure once every 185 years. 
 
 So, looking to start my career as an airline pilot next year, my odds are looking pretty good!
