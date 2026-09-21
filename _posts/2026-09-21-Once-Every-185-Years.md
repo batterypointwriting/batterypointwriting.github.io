@@ -19,4 +19,4 @@ I assume surgeons practice for years, or decades even for operations they never 
 Surgery and flying require different skillsets, but maybe this idea of training hard, preparing for the worst, is just why we (humans), have managed to make some really dangerous things like replacing someone's heart or slinging a pressurised tube through the air at 500mph, actually quite safe.
 
 
-![photo of cockpit](/assets/images/cockpit.jpg)
+![photo of cockpit](/assets/images/Cockpit.jpg)
