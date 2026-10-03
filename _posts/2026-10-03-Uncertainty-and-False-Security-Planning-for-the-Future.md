@@ -20,7 +20,7 @@ intellectual discussion.
 So, what are your plans for the future. Will you find a job? 
 
 I think people have a tendency to feel secure and safe when they are able to answer these questions.
-The future remains uncertain, and a paycheck cannot answer certain questions. 
+The future remains uncertain, and a paycheck cannot prepare you for everything.
 
 What will I do? 
 
