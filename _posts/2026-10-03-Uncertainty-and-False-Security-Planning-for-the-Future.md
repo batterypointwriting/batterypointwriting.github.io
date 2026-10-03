@@ -13,7 +13,7 @@ and I am unsure whether I am starting from zero or starting from great experienc
 In the UK, I am well-spoken, mature and smart. I've finished a degree from a prestigious
 university, have had relationships, troubles, loses and wins. 
 
-In Poland, I am a child, am yet to finish my drivers license (the preqrequisite to being an adult), 
+In Poland, I am a child, am yet to finish my drivers license (the prerequisite to being an adult), 
 cannot find the right word, and am jobless. I do not have friends, go to town or engage in
 intellectual discussion. 
 
