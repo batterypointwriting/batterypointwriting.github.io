@@ -11,10 +11,10 @@ I sit here, writing, torn between two worlds. My future cannot be predicted,
 and I am unsure whether I am starting from zero or starting from great experience. 
 
 In the UK, I am well-spoken, mature and smart. I've finished a degree from a prestigious
-university, have had relationships, troubles, loses, and wins. 
+university, have had relationships, troubles, loses and wins. 
 
 In Poland, I am a child, am yet to finish my drivers license (the preqrequisite to being an adult), 
-cannot find the right word, and am jobless. I do not have friends, go to town, or engage in
+cannot find the right word, and am jobless. I do not have friends, go to town or engage in
 intellectual discussion. 
 
 So, what are your plans for the future. Will you find a job? 
