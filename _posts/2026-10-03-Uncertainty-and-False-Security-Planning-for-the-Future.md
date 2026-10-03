@@ -17,7 +17,7 @@ In Poland, I am a child, am yet to finish my drivers license (the preqrequisite 
 cannot find the right word, and am jobless. I do not have friends, go to town or engage in
 intellectual discussion. 
 
-So, what are your plans for the future. Will you find a job? 
+So, what are your plans for the future. will you find a job? 
 
 I think people have a tendency to feel secure and safe when they are able to answer these questions.
 The future remains uncertain, and a paycheck cannot prepare you for everything.
