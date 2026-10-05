@@ -7,4 +7,4 @@ We encourage you to edit your posts. To improve your piece you could ask yoursel
 
 - Is there any risk a reader could misinterpret my idea, and how could I re-write the piece to reduce ambiguity? <br>
 - What parts of my piece are particularly interesting and how can I develop them further? <br>
-- Are there sections that can be cut out entirely? <br>
+- Are there sections that can be cut out? <br>
