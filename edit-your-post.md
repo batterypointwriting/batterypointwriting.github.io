@@ -1,7 +1,7 @@
 ---
 layout: post
 author: "Iggy & Raf"
-title: How to Edit and Improve a Post
+title: How to edit and improve a post
 ---
 We encourage you to edit your posts. To improve your piece you could ask yourself the following questions:
 
