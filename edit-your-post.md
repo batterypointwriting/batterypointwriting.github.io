@@ -9,3 +9,4 @@ We encourage you to edit your posts; to improve your piece you could ask yoursel
 - Have I been careful with my wording? <br>
 - Is there any risk a reader could misinterpret my idea, and how could I re-write the piece to reduce ambiguity? <br>
 - Are there sections that can be cut out? <br>
+- Are there any contradictions between the start and end of my piece? <br>
