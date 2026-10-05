@@ -5,8 +5,8 @@ title: How to Edit and Improve a Post
 ---
 We encourage you to edit your posts. To improve your piece you could ask yourself the following questions:
 
--Has any reader misinterpreted my idea, and how could I re-write the piece to reduce ambiguity?
--What parts of this piece are particularly interesting and how can I develop them further? 
--Are there sections that can be cut out entirely?
+-Has any reader misinterpreted my idea, and how could I re-write the piece to reduce ambiguity? <br>
+-What parts of this piece are particularly interesting and how can I develop them further? <br>
+-Are there sections that can be cut out entirely? <br>
 
 Iggy and Raf
