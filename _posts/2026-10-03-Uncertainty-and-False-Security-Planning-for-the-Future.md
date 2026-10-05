@@ -1,7 +1,7 @@
 ---
 layout: post
 author: "Iggy"
-title: Uncertainty and False Security; Planning for the Future
+title: Uncertainty and False Security
 date: 2026-10-03
 ---
 It has been a while since I have written for the blog. Since leaving my doctorate,
