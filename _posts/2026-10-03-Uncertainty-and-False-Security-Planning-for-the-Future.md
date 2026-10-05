@@ -11,10 +11,10 @@ I am writing from my grandparents house, torn between two countries. No one can 
 and I am unsure whether I am starting from zero or starting from great experience. 
 
 In the UK, I am well-spoken, mature and smart. I've finished a degree from a prestigious 
-university, have had relationships, troubles, loses and wins. In Poland, I am a child, 
-am yet to finish my drivers license (the prerequisite to being an adult), cannot find 
-the right word, and am jobless. I do not have friends, go to town or engage in
-intellectual discussion. 
+university, have had relationships, troubles, loses and wins. In Poland, I am considered a child, 
+as I am yet to finish my drivers license --- the prerequisite to being an adult, I cannot find 
+the right word, and do not have a well paying job. I do not have friends my age, go to town or 
+engage in intellectual discussion. 
 
 So, what are your plans for the future, will you find a job? 
 
