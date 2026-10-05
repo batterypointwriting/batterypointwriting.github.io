@@ -5,10 +5,9 @@ title: Uncertainty and False Security
 date: 2026-10-03
 ---
 It has been a while since I have written for the blog. Since leaving my doctorate,
-I've been thrown into a void of uncertainty. 
-
-I am writing from my grandparents house, torn between two countries. No one can predict
-my future, and I am unsure whether I am starting from zero or from great experience. 
+I've been thrown into a void of uncertainty. I am writing from my grandparents house,
+torn between two countries. No one can predict my future, and I am unsure whether I 
+am starting from zero or from great experience. 
 
 In the UK, I am well-spoken, mature and smart. I've finished a degree from a prestigious 
 university, have had relationships, troubles, loses and wins. In Poland, I am considered
