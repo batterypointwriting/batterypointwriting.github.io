@@ -4,10 +4,9 @@ author: "Iggy"
 title: Uncertainty and False Security
 date: 2026-10-03
 ---
-It has been a while since I have written for the blog. Since leaving my doctorate,
-I've been thrown into a void of uncertainty. I am writing from my grandparents house,
-often jumping between two countries. I am unsure whether I am starting from zero or 
-from great experience. 
+It has been a while since I have written for the blog. I am writing from my grandparents house,
+often jumping between two countries. Since leaving my doctorate, I've been thrown into a void 
+of uncertainty. I am unsure whether I am starting from zero or from great experience. 
 
 In the UK, I am perceived as well-spoken, mature and smart. I've finished a degree from a prestigious 
 university, have had a few relationships, troubles, loses and wins. In Poland, I am considered
