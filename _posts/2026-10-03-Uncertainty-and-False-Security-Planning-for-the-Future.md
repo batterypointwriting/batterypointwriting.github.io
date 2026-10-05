@@ -24,4 +24,4 @@ the more difficult question to be: What is it that I should be doing? The feelin
 uncertainty may go away with a stable career and a deadline, is this a 
 false security? 
 
-![Notepad](/assets/images/grandparents-house.jpeg)
+![Notepad](/assets/images/grandparents-house.jpg)
