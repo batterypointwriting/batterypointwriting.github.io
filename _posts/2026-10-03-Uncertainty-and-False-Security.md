@@ -22,4 +22,4 @@ questions. The feeling of uncertainty may go away with a stable career and routi
 is this a false security? Which can be quickly replaced with another question: is 
 this the right path for me? 
 
-![grandparents-house](/assets/images/grandparents-house.jpg)
+![grandparents-house](/assets/images/grandparents-house-2.jpg)
