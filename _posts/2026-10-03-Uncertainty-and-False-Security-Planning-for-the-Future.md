@@ -5,22 +5,23 @@ title: Uncertainty and False Security
 date: 2026-10-03
 ---
 It has been a while since I have written for the blog. Since leaving my doctorate,
-I've been thrown into a void of uncertainty. What is it that I should be doing?
+I've been thrown into a void of uncertainty. 
 
-I am writing from my grandparents house, torn between two countries. No one can predict my future,
-and I am unsure whether I am starting from zero or from great experience. 
+I am writing from my grandparents house, torn between two countries. No one can predict
+my future, and I am unsure whether I am starting from zero or from great experience. 
 
 In the UK, I am well-spoken, mature and smart. I've finished a degree from a prestigious 
-university, have had relationships, troubles, loses and wins. In Poland, I am considered a child, 
-as I am yet to finish my drivers license --- the prerequisite to being an adult, I cannot find 
-the right word, and do not have a well paying job. I do not have friends my age, go to town or 
-engage in intellectual discussion. 
+university, have had relationships, troubles, loses and wins. In Poland, I am considered
+more childish. During conversation, I often struggle to find the right words in response
+to snappy or sharp questions; scientific discussions are out of reach. I do not have a well
+paying job. I do not have friends my age, go to town or engage in intellectual discussion. 
 
-So, what are your plans for the future, will you find a job? 
+"So, what are your plans for the future, will you find a job?"
 
-I think people have a tendency to feel secure and safe when they are able to answer these
-questions. The future remains uncertain, and a paycheck cannot prepare you for everything.
-The feeling of uncertainty may go away with a stable career and a deadline, is this a 
+Many have a tendency to feel secure and safe when they are able to answer these
+questions. Financial security is important, though the future remains uncertain. I find 
+the more difficult question to be: What is it that I should be doing? The feeling of 
+uncertainty may go away with a stable career and a deadline, is this a 
 false security?
 
 ![Notepad](/assets/images/notepad.jpg)
