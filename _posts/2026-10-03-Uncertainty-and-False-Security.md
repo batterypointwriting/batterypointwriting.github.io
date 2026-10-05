@@ -19,7 +19,7 @@ go to town or engage in intellectual discussion.
 "So, what are your plans for the future, will you find a job?"
 
 Many have a tendency to feel secure and safe when they are able to answer these questions. The feeling
-of uncertainty may go away with a stable career and routine; is this a false security? Which can be 
+of uncertainty may go away with a stable career and routine; is this a false security? One which can be 
 quickly replaced with another question: is this the right path for me? 
 
 ![grandparents-house](/assets/images/grandparents-house-2.jpg)
