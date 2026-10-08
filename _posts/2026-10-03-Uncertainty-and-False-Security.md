@@ -24,7 +24,7 @@ quickly replaced with another question?
 
 Maybe. 
 
-However, with initiative, you can also find a different answer to the above question. 
+With initiative, you can also find a different answer to the above question. 
 "I'm working on my blog, "I'm fixing my health", or "I'm traveling the world". Fundamentally, your situation 
 may not be so different, to the one who answers: "I'm not sure what I'm doing". The energy
 that your new, not less true, response will bring may be the defining factor in whether you are respected
