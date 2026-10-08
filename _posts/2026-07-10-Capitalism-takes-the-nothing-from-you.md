@@ -15,7 +15,7 @@ Taking the time to notice the wings of your<br>
 cigarette smoke<br>
 and the steam of my morning coffee<br>
 intertwine.<br>
-The nothing of having one flimsy ubmrella<br>
+The nothing of having one flimsy umbrella<br>
 in the pouring rain.<br>
 Of confronting dumb songs from obscure inside<br>
 jokes<br>
