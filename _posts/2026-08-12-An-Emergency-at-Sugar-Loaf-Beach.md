@@ -1,7 +1,7 @@
 ---
 layout: post
 author: "Iggy"
-title: An Emergency at Sugarloaf Beach
+title: An Emergency at Sugar Loaf Beach
 date: 2026-08-12
 ---
 *As far as I can remember...*
