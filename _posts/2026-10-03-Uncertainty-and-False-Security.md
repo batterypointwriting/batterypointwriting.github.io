@@ -20,6 +20,14 @@ go to town or engage in intellectual discussion.
 
 Many have a tendency to feel secure and safe when they are able to answer these questions. The feeling
 of uncertainty may go away with a stable career and routine; is this a false security? One which can be 
-quickly replaced with another question: is this the right path for me? 
+quickly replaced with another question?
+
+Maybe. 
+
+However, with initiative, you can also find a different answer to the above question. 
+"I'm working on my blog, "I'm fixing my health", or "I'm traveling the world". Fundamentally, your situation 
+may not be so different, to the one who answers: "I'm not sure what I'm doing". The energy
+that your new, not less true, response will bring may be the defining factor in whether you are respected
+by your peers. Answer the question with certainty, and self-belief.
 
 ![grandparents-house](/assets/images/grandparents-house-2.jpg)
