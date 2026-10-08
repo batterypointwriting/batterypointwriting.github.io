@@ -28,6 +28,6 @@ However, with initiative, you can also find a different answer to the above ques
 "I'm working on my blog, "I'm fixing my health", or "I'm traveling the world". Fundamentally, your situation 
 may not be so different, to the one who answers: "I'm not sure what I'm doing". The energy
 that your new, not less true, response will bring may be the defining factor in whether you are respected
-by your peers. Answer the question with certainty, and self-belief.
+by your peers. If you find yourself in the same position as I do, answer the question with certainty, and self-belief.
 
 ![grandparents-house](/assets/images/grandparents-house-2.jpg)
