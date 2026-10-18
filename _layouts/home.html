@@ -97,18 +97,9 @@ layout: default
 
 <!-- parallax kept for later use -->
 
-<div class="parallax-container">
-  <img src="assets/images/Lighthouse.jpeg" class="parallax-img" style="top: 10%; left: 5%;">
+<div class="image-container">
+  <img src="assets/images/Lighthouse.jpeg" class="lighthouse-img">
 </div>
-<script>
-  window.addEventListener('scroll', function() {
-    var scrollY = window.scrollY;
-    document.querySelectorAll('.parallax-img').forEach(function(img, i) {
-      var speed = 0.05 + (i * 0.02);
-      img.style.transform = 'translateY(' + (scrollY * speed) + 'px)';
-    });
-  });
-</script>
 
 
 <script>
