@@ -176,21 +176,21 @@ figcaption {
 
 .image-container {
   position: relative;
-  width: 100%;
-  margin: 20px 0;
 }
 
 .lighthouse-img {
-  display: block;
-  position: static;
-  width: 100px;
-  max-width: 100%;
+  position: absolute;
+  top: 0;
+  left: -20px;
+  width: 200px;
   height: auto;
 }
 
-@media (max-width: 600px) {
+/* Phones only */
+@media screen and (max-width: 600px) {
   .lighthouse-img {
-    width: 50px;
+    width: 80px;
+    left: -10px;
   }
 }
 
