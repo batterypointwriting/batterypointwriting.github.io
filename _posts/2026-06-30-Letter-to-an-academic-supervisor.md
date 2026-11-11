@@ -36,5 +36,5 @@ As for a way to move forward, I propose that we involve an independent and senio
 
 *My final meeting with my supervisor included his cooperator and ex-student who was chosen as my 'academic advisor'. Again, I was repeatedly asked these questions, though this time, I stared directly back into their eyes, and answered with confidence. I had read the literature inside-out, and did no longer hesitate with my responses. I left the room with frustration, and told my colleagues that these people are unreasonable.*
 
-![photo of library](/assets/images/prison.jpeg)
+![photo of library](/assets/images/shambles.jpeg)
 
