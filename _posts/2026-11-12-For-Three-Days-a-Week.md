@@ -9,7 +9,7 @@ Under fluorescent lights,<br>
 We slave away, for another's pay.<br>
 
 Aim high, study smart they say,<br>
-Rewards you'll see, rich you'll be<br>
+Rewards you'll see, rich you'll be,<br>
 alure and prestige we seek,<br>
 Rewards do we wish to reep,<br>
 I say this now and proud,<br>
