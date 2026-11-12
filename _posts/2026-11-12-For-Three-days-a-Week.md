@@ -1,7 +1,7 @@
 ---
 layout: post
 author: "Ivan"
-title: For 3-days a Week
+title: For Three-days a Week
 date: 2026-11-12
 ---
 We toil day and night,<br>
